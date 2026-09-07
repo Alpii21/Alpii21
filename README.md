@@ -8,9 +8,13 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F48FB1&height=180&section=header&text=ALFIAH&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
+
+<br>
+
 # 👋 Hi, I'm Alfiah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=800&color=E91E63&center=true&vCenter=true&width=750&lines=💻+Software+Developer;📊+Data+%26+Machine+Learning+Enthusiast;👁️+Computer+Vision+Enthusiast;🤖+TinyML+%26+Embedded+Systems;🦯+Building+Smart+Cane+with+Edge+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&height=45&lines=Software+Developer;Data+%26+Machine+Learning;Computer+Vision+Enthusiast;TinyML+%26+Embedded+Systems;Edge+AI+Developer" alt="Typing SVG" />
 
 <br>
 
