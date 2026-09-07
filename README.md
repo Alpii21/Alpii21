@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=ALFIAH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=D3%20Informatics%20Engineering%20Graduate&descAlignY=60&descSize=18" width="100%"/>
-
 # 🌸 Hi, I'm Alfiah
 
 ### 🎓 D3 Informatics Engineering Graduate
@@ -12,17 +10,25 @@
 
 📍 Tegal, Central Java, Indonesia
 
+<br>
+
+💡 **Building practical technology solutions through AI, computer vision, and embedded systems.**
+
 </div>
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
-
 ## 👩‍💻 About Me
 
-I am a **D3 Informatics Engineering graduate** with an interest in technology, programming, data analysis, machine learning, computer vision, embedded systems, and IoT.
+I am a **D3 Informatics Engineering graduate** with a strong interest in **software development, data & machine learning, computer vision, embedded systems, and Internet of Things (IoT)**.
 
-I enjoy learning new technologies and developing practical technology-based solutions for real-world problems.
+I enjoy turning ideas into practical technology solutions, from **data analysis and machine learning models** to **AI-powered embedded systems**.
+
+One of my main projects is a **Smart Cane Object Detection System** using **FOMO-based TinyML, Edge Impulse, and ESP32-CAM AI Thinker** to detect **vehicles, doors, and poles** in real time.
+
+🚀 I am continuously improving my technical skills, exploring new technologies, and building projects that solve real-world problems.
+
+---
 
 ### 💡 What I Do
 
