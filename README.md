@@ -2,6 +2,8 @@
 <!--                       HEADER                          -->
 <!-- ===================================================== -->
 
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F48FB1&height=180&section=header&text=ALFIAH&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br>
