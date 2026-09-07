@@ -8,17 +8,15 @@
 
 <div align="center">
 
-# 🌸 Hi, I'm Alfiah
+# 👋 Hi, I'm Alfiah
 
-### 🎓 D3 Informatics Engineering Graduate
-
-**Software Development • Data & Machine Learning • Computer Vision • Embedded Systems**
-
-📍 Tegal, Central Java, Indonesia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=800&color=E91E63&center=true&vCenter=true&width=750&lines=💻+Software+Developer;📊+Data+%26+Machine+Learning+Enthusiast;👁️+Computer+Vision+Enthusiast;🤖+TinyML+%26+Embedded+Systems;🦯+Building+Smart+Cane+with+Edge+AI" alt="Typing SVG" />
 
 <br>
 
-💡 **Building practical technology solutions through AI, computer vision, and embedded systems.**
+**D3 Informatics Engineering Graduate**
+
+📍 Tegal, Central Java, Indonesia
 
 </div>
 
