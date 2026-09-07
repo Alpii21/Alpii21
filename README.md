@@ -22,33 +22,118 @@
 
 ---
 
+<!-- ========================= ABOUT ME ========================= -->
+
 ## 👩‍💻 About Me
 
-I am a **D3 Informatics Engineering graduate** with a strong interest in **software development, data & machine learning, computer vision, embedded systems, and Internet of Things (IoT)**.
+<p align="center">
+  <strong>D3 Informatics Engineering Graduate</strong> with a strong interest in
+  <strong>Software Development, Data & Machine Learning, Computer Vision,
+  Embedded Systems, and IoT.</strong>
+</p>
 
-I enjoy turning ideas into practical technology solutions, from **data analysis and machine learning models** to **AI-powered embedded systems**.
+<p align="center">
+  I enjoy turning ideas into practical technology solutions —
+  from <strong>data analysis and machine learning</strong> to
+  <strong>AI-powered embedded systems.</strong>
+</p>
 
-One of my main projects is a **Smart Cane Object Detection System** using **FOMO-based TinyML, Edge Impulse, and ESP32-CAM AI Thinker** to detect **vehicles, doors, and poles** in real time.
+<p align="center">
+  🦯 One of my main projects is a
+  <strong>Smart Cane Object Detection System</strong> using
+  <strong>FOMO-based TinyML, Edge Impulse, and ESP32-CAM AI Thinker</strong>
+  to detect vehicles, doors, and poles in real time.
+</p>
 
-🚀 I am continuously improving my technical skills, exploring new technologies, and building projects that solve real-world problems.
+<p align="center">
+  🚀 Continuously learning, building, and exploring new technologies
+  to create solutions for real-world problems.
+</p>
 
 ---
 
-### 💡 What I Do
+## 💡 What I Do
 
-| | Area |
-|---|---|
-| 💻 | **Software Development** |
-| 📊 | **Data Analysis & Visualization** |
-| 🤖 | **Machine Learning** |
-| 👁️ | **Computer Vision & Object Detection** |
-| 🧠 | **TinyML** |
-| 🔧 | **Embedded Systems** |
-| 📡 | **Internet of Things (IoT)** |
-| 🐍 | **Python Programming** |
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💻
+**Software Development**
+
+Python • C • C++ • SQL  
+Git • GitHub
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊
+**Data & AI**
+
+Data Analysis  
+Data Visualization  
+Machine Learning
+
+</td>
+
+<td align="center" width="33%">
+
+### 👁️
+**Computer Vision**
+
+Object Detection  
+FOMO • TinyML  
+Edge AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖
+**Embedded Systems**
+
+ESP32  
+ESP32-CAM  
+Arduino IDE
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐
+**Internet of Things**
+
+Sensors  
+Connected Devices  
+Real-Time Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🦯
+**Smart Technology**
+
+Smart Cane  
+Assistive Technology  
+AI-Based Solutions
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
-
 <!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
