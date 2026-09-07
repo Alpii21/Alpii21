@@ -1,4 +1,10 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ===================================================== -->
+<!--                       HEADER                          -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=ALFIAH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <div align="center">
 
