@@ -1,244 +1,56 @@
-<div align="center">
+┌──────────────────────────────────────────────┐
+│              🌸 ALFIAH                       │
+│        INFORMATICS ENGINEERING GRADUATE      │
+│     SOFTWARE • DATA • AI • EMBEDDED SYSTEM   │
+└──────────────────────────────────────────────┘
 
-# 👋 Hi, I'm Alfiah
+              👋 Hi, I'm Alfiah
 
-### 💻 Informatics Engineering Graduate | Software Development | Data & AI | Embedded Systems
+🎓 D3 Teknik Informatika
+💻 Software Development
+📊 Data Analysis & Machine Learning
+🤖 Computer Vision & TinyML
+🔧 Embedded System & ESP32
 
-<p>
-  <a href="https://github.com/Alpii21">
-    <img src="https://img.shields.io/badge/GitHub-Alpii21-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/alfiah-b6ab2935a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alfiah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://wa.me/6282224135912">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Alpii21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+              🛠️ Tech Stack
 
-</div>
+Programming
+🐍 Python   C   C++   SQL
 
----
+Data & AI
+Pandas • NumPy • Matplotlib • scikit-learn
+Machine Learning • Computer Vision • TinyML
 
-## 👨‍💻 About Me
+Embedded & IoT
+ESP32 • ESP32-CAM • Edge Impulse
+Arduino IDE • IoT
 
-Hi! I'm **Alfiah**, a **D3 Informatics Engineering graduate** with a strong interest in technology, programming, data analysis, machine learning, computer vision, embedded systems, and Internet of Things (IoT).
+Tools
+Git • GitHub • VS Code • Jupyter
 
-I enjoy learning new technologies, solving problems through programming, and building practical technology-based solutions for real-world needs.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-My current technical interests include:
+              🚀 Featured Project
 
-- 💻 Software Development
-- 📊 Data Analysis & Data Visualization
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 🧠 TinyML & Edge AI
-- 🔧 Embedded Systems
-- 🌐 Internet of Things (IoT)
+🌸 Smart Cane Object Detection
+FOMO + TinyML + ESP32-CAM AI Thinker
 
----
+Deteksi:
+🚗 Kendaraan
+🚪 Pintu
+📍 Tiang
 
-## 🛠️ Tech Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 💻 Programming
+              📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <b>Python • C • C++ • SQL</b>
-</p>
+              🤝 Let's Connect
 
----
-
-### 📊 Data & Artificial Intelligence
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  <b>Pandas • NumPy • Matplotlib • Scikit-learn</b>
-</p>
-
-<p align="center">
-  Data Analysis • Data Visualization • Machine Learning
-</p>
-
----
-
-### 🤖 Computer Vision & TinyML
-
-<p align="center">
-
-Computer Vision • Object Detection • TinyML
-
-</p>
-
-<p align="center">
-
-FOMO • Edge Impulse • Edge AI
-
-</p>
-
----
-
-### 🔧 Embedded Systems & IoT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
-</p>
-
-<p align="center">
-  <b>ESP32 • ESP32-CAM • Arduino IDE</b>
-</p>
-
-<p align="center">
-  Edge Impulse • Embedded Systems • IoT
-</p>
-
----
-
-### 🧰 Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
-<p align="center">
-  <b>Git • GitHub • VS Code • Jupyter Notebook</b>
-</p>
-
----
-
-## 🎯 Areas of Interest
-
-<table align="center">
-<tr>
-
-<td width="33%" align="center">
-
-### 📊 Data & AI
-
-Data Analysis
-
-<br>
-
-Data Visualization
-
-<br>
-
-Machine Learning
-
-<br>
-
-Computer Vision
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔧 Embedded Technology
-
-ESP32
-
-<br>
-
-ESP32-CAM
-
-<br>
-
-TinyML
-
-<br>
-
-IoT
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Software Development
-
-Python
-
-<br>
-
-C / C++
-
-<br>
-
-SQL
-
-<br>
-
-Git & GitHub
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Project
-
-## 🦯 Smart Cane Object Detection Using FOMO-Based TinyML
-
-> **Embedded System • Computer Vision • TinyML • Edge AI**
-
-I developed an object detection system for a **smart cane** using the **FOMO (Faster Objects, More Objects)** algorithm and TinyML.
-
-The system uses **ESP32-CAM AI Thinker** and **Edge Impulse** to perform object detection directly on an embedded device.
-
-### 🎯 Object Classes
-
-- 🚗 Vehicle
-- 🚪 Door
-- 🗼 Pole
-
-### ⚡ Key Features
-
-- 🔍 Real-time object detection
-- 🧠 TinyML inference
-- 📷 Camera-based detection
-- 📡 Offline processing
-- 🔧 Embedded system implementation
-- 🤖 Edge AI
-
-### 🧰 Technologies
-
-`ESP32-CAM AI Thinker`  
-`FOMO`  
-`TinyML`  
-`Edge Impulse`  
-`Computer Vision`  
-`C/C++`  
-`Arduino IDE`  
-`Embedded Systems`
-
----
-
-## 🌱 Currently Learning
-
-I'm continuously improving my skills in:
-
-- 🐍 Advanced Python Programming
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 🧠 TinyML & Edge AI
-- 🔧 Embedded Systems
-- 🌐 Internet of Things
-- 💻 Software Development
-
----
-
+LinkedIn • Portfolio • GitHub
 ## 📈 GitHub Statistics
 
 <div align="center">
