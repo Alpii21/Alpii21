@@ -196,39 +196,23 @@ Software Development
    ├── C / C++
    └── SQL
 
-<!-- ========================= SOCIAL MEDIA ========================= -->
+<h2 align="center">🌸 Let's Connect!</h2>
 
-## 🌸 Let's Connect
+<p align="center">
+  <a href="https://wa.me/6282224135912">
+    <img src="https://img.shields.io/badge/WhatsApp-FF69B4?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alfiah-b6ab2935a">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_piiyyy21?stkn=bzh4YWV1ZThnaXM4">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@merlmaid_0?_r=1&_t=ZS-99WWTWIdpXM">
+    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=flat-square&logo=tiktok&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-<a href="https://wa.me/6282224135912">
-<img src="https://img.shields.io/badge/WhatsApp-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/alfiah-b6ab2935a/">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_piiyyy21?stkn=bzh4YWV1ZThnaXM4">
-<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@merlmaid_0?_r=1&_t=ZS-99WWTWIdpXM">
-<img src="https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 🌸 Platform | 🔗 Link |
-|:---:|:---|
-| 💬 **WhatsApp** | [Chat with me](https://wa.me/6282224135912) |
-| 💼 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/alfiah-b6ab2935a/) |
-| 📸 **Instagram** | [Follow me](https://www.instagram.com/_piiyyy21?stkn=bzh4YWV1ZThnaXM4) |
-| 🎵 **TikTok** | [Follow me](https://www.tiktok.com/@merlmaid_0?_r=1&_t=ZS-99WWTWIdpXM) |
-
-</div>
+<p align="center">
+  <i>Let's connect, collaborate, and build something meaningful together! 💕</i>
+</p>
