@@ -1,89 +1,50 @@
-<!-- ===================================================== -->
-<!--                        HEADER                         -->
-<!-- ===================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=ALFIAH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+# 👋 Hi, I'm Alfiah
+
+### 💻 Informatics Engineering Graduate | Software Development | Data & AI | Embedded Systems
+
+<p>
+  <a href="https://github.com/Alpii21">
+    <img src="https://img.shields.io/badge/GitHub-Alpii21-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alfiah-b6ab2935a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alfiah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wa.me/6282224135912">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
-<h1 align="center">
-  🌸 Hi, I'm Alfiah 🌸
-</h1>
-
-<p align="center">
-  <b>D3 Informatics Engineering Graduate</b>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Alpii21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  💻 Software Development
-  &nbsp; • &nbsp;
-  📊 Data & Machine Learning
-  &nbsp; • &nbsp;
-  🤖 Computer Vision & TinyML
-  &nbsp; • &nbsp;
-  🔧 Embedded Systems
-  &nbsp; • &nbsp;
-  🌐 IoT
-</p>
+</div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                      ABOUT ME                         -->
-<!-- ===================================================== -->
+## 👨‍💻 About Me
 
-<h2 align="center">
-  👩‍💻 About Me
-</h2>
+Hi! I'm **Alfiah**, a **D3 Informatics Engineering graduate** with a strong interest in technology, programming, data analysis, machine learning, computer vision, embedded systems, and Internet of Things (IoT).
 
-<p align="center">
-  👋 Hi, I'm <b>Alfiah</b>
-</p>
+I enjoy learning new technologies, solving problems through programming, and building practical technology-based solutions for real-world needs.
 
-<p align="center">
-  I am a <b>D3 Informatics Engineering Graduate</b> with an interest in
-  technology, programming, data analysis, machine learning, computer vision,
-  embedded systems, and Internet of Things (IoT).
-</p>
+My current technical interests include:
 
-<p align="center">
-  I enjoy learning new technologies, solving problems through programming,
-  and developing practical technology-based solutions for real-world needs.
-</p>
-
-<p align="center">
-  My technical interests include:
-</p>
-
-<p align="center">
-  💻 Software Development
-  <br>
-  📊 Data Analysis & Visualization
-  <br>
-  🤖 Machine Learning
-  <br>
-  👁️ Computer Vision
-  <br>
-  🧠 TinyML
-  <br>
-  🔧 Embedded Systems
-  <br>
-  🌐 Internet of Things
-</p>
+- 💻 Software Development
+- 📊 Data Analysis & Data Visualization
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- 🧠 TinyML & Edge AI
+- 🔧 Embedded Systems
+- 🌐 Internet of Things (IoT)
 
 ---
 
-<!-- ===================================================== -->
-<!--                     TECH STACK                        -->
-<!-- ===================================================== -->
+## 🛠️ Tech Stack
 
-<h2 align="center">
-  🛠️ Tech Stack
-</h2>
-
-<h3 align="center">
-  💻 Programming
-</h3>
+### 💻 Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
@@ -93,283 +54,265 @@
   <b>Python • C • C++ • SQL</b>
 </p>
 
-<br>
+---
 
-<h3 align="center">
-  📊 Data & Artificial Intelligence
-</h3>
+### 📊 Data & Artificial Intelligence
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <p align="center">
-  <b>
-    Pandas • NumPy • Matplotlib • Scikit-learn
-    <br>
-    Data Analysis • Data Visualization • Machine Learning
-  </b>
-</p>
-
-<br>
-
-<h3 align="center">
-  🤖 Computer Vision & TinyML
-</h3>
-
-<p align="center">
-  <b>
-    Computer Vision • Object Detection • TinyML
-    <br>
-    FOMO • Edge Impulse
-  </b>
-</p>
-
-<br>
-
-<h3 align="center">
-  🔧 Embedded Systems & IoT
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <b>Pandas • NumPy • Matplotlib • Scikit-learn</b>
 </p>
 
 <p align="center">
-  <b>
-    ESP32 • ESP32-CAM • Arduino IDE
-    <br>
-    Edge Impulse • Embedded Systems • IoT
-  </b>
+  Data Analysis • Data Visualization • Machine Learning
 </p>
 
-<br>
+---
 
-<h3 align="center">
-  🧰 Development Tools
-</h3>
+### 🤖 Computer Vision & TinyML
+
+<p align="center">
+
+Computer Vision • Object Detection • TinyML
+
+</p>
+
+<p align="center">
+
+FOMO • Edge Impulse • Edge AI
+
+</p>
+
+---
+
+### 🔧 Embedded Systems & IoT
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+</p>
+
+<p align="center">
+  <b>ESP32 • ESP32-CAM • Arduino IDE</b>
+</p>
+
+<p align="center">
+  Edge Impulse • Embedded Systems • IoT
+</p>
+
+---
+
+### 🧰 Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 <p align="center">
-  <b>
-    Git • GitHub • VS Code • Jupyter Notebook
-  </b>
+  <b>Git • GitHub • VS Code • Jupyter Notebook</b>
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                 AREAS OF INTEREST                     -->
-<!-- ===================================================== -->
-
-<h2 align="center">
-  📚 Areas of Interest
-</h2>
+## 🎯 Areas of Interest
 
 <table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <h3>💻 Software Development</h3>
-      Python
-      <br>
-      C / C++
-      <br>
-      SQL
-      <br>
-      Git & GitHub
-    </td>
+<tr>
 
-    <td width="33%" align="center">
-      <h3>📊 Data & AI</h3>
-      Data Analysis
-      <br>
-      Data Visualization
-      <br>
-      Machine Learning
-      <br>
-      Computer Vision
-    </td>
+<td width="33%" align="center">
 
-    <td width="33%" align="center">
-      <h3>🔧 Embedded Technology</h3>
-      ESP32
-      <br>
-      ESP32-CAM
-      <br>
-      TinyML
-      <br>
-      IoT
-    </td>
-  </tr>
+### 📊 Data & AI
+
+Data Analysis
+
+<br>
+
+Data Visualization
+
+<br>
+
+Machine Learning
+
+<br>
+
+Computer Vision
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔧 Embedded Technology
+
+ESP32
+
+<br>
+
+ESP32-CAM
+
+<br>
+
+TinyML
+
+<br>
+
+IoT
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Software Development
+
+Python
+
+<br>
+
+C / C++
+
+<br>
+
+SQL
+
+<br>
+
+Git & GitHub
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECT                     -->
-<!-- ===================================================== -->
+# 🚀 Featured Project
 
-<h2 align="center">
-  🚀 Featured Project
-</h2>
+## 🦯 Smart Cane Object Detection Using FOMO-Based TinyML
 
-<h3 align="center">
-  🦯 Smart Cane Object Detection Using FOMO-Based TinyML
-</h3>
+> **Embedded System • Computer Vision • TinyML • Edge AI**
 
-<p align="center">
-  <b>
-    Embedded System • Computer Vision • TinyML • Edge AI
-  </b>
-</p>
+I developed an object detection system for a **smart cane** using the **FOMO (Faster Objects, More Objects)** algorithm and TinyML.
 
-<p align="center">
-  Developed an object detection system for a smart cane using the
-  <b>FOMO (Faster Objects, More Objects)</b> algorithm and
-  <b>TinyML</b>.
-</p>
+The system uses **ESP32-CAM AI Thinker** and **Edge Impulse** to perform object detection directly on an embedded device.
 
-<p align="center">
-  The system uses <b>ESP32-CAM AI Thinker</b> and
-  <b>Edge Impulse</b> to perform object detection directly
-  on an embedded device.
-</p>
+### 🎯 Object Classes
 
-<p align="center">
-  🎯 <b>Object Classes:</b>
-  Vehicle • Door • Pole
-</p>
+- 🚗 Vehicle
+- 🚪 Door
+- 🗼 Pole
 
-<p align="center">
-  ⚡ Real-Time Detection
-  &nbsp; • &nbsp;
-  📴 Offline Processing
-  &nbsp; • &nbsp;
-  🤖 Edge AI
-</p>
+### ⚡ Key Features
+
+- 🔍 Real-time object detection
+- 🧠 TinyML inference
+- 📷 Camera-based detection
+- 📡 Offline processing
+- 🔧 Embedded system implementation
+- 🤖 Edge AI
+
+### 🧰 Technologies
+
+`ESP32-CAM AI Thinker`  
+`FOMO`  
+`TinyML`  
+`Edge Impulse`  
+`Computer Vision`  
+`C/C++`  
+`Arduino IDE`  
+`Embedded Systems`
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CURRENT LEARNING                     -->
-<!-- ===================================================== -->
+## 🌱 Currently Learning
 
-<h2 align="center">
-  🌱 Currently Learning
-</h2>
+I'm continuously improving my skills in:
 
-<p align="center">
-  🔹 Advanced Python Programming
-  <br>
-  🔹 Data Analysis & Machine Learning
-  <br>
-  🔹 Computer Vision
-  <br>
-  🔹 TinyML & Edge AI
-  <br>
-  🔹 Embedded Systems
-  <br>
-  🔹 Internet of Things
-  <br>
-  🔹 Software Development
-</p>
+- 🐍 Advanced Python Programming
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- 🧠 TinyML & Edge AI
+- 🔧 Embedded Systems
+- 🌐 Internet of Things
+- 💻 Software Development
 
 ---
 
-<!-- ===================================================== -->
-<!--                    GITHUB STATS                       -->
-<!-- ===================================================== -->
+## 📈 GitHub Statistics
 
-<h2 align="center">
-  📈 GitHub Statistics
-</h2>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Alpii21&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Alpii21&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Alpii21&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpii21&layout=compact&hide_border=true" height="170"/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpii21&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+</div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    LET'S CONNECT                      -->
-<!-- ===================================================== -->
+## 🔥 GitHub Streak
 
-<hr>
+<div align="center">
 
-<h2 align="center">
-  🌐 Let's Connect!
-</h2>
+<img src="https://streak-stats.demolab.com?user=Alpii21&hide_border=true" />
 
-<p align="center">
-
-  <a href="https://wa.me/6282224135912">
-    <img
-      src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="WhatsApp"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/alfiah-b6ab2935a">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/_piiyyy21">
-    <img
-      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="https://www.tiktok.com/@merlmaid_0">
-    <img
-      src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"
-      alt="TikTok"
-    />
-  </a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ⭐ <b>Let's connect, collaborate, and build something meaningful together!</b> 🚀
-</p>
+## 🏆 GitHub Achievements
 
-<p align="center">
-  🌸 Thank you for visiting my GitHub profile! 🌸
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Keep Learning • Keep Building • Keep Growing</i>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Alpii21&theme=flat&no-frame=true&margin-w=10" />
 
-<!-- ===================================================== -->
-<!--                       FOOTER                          -->
-<!-- ===================================================== -->
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-</p>
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpii21&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+I'm always open to connecting, collaborating, and discussing technology.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/alfiah-b6ab2935a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://wa.me/6282224135912">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/_piiyy21/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.tiktok.com/@merlmaid_0">
+  <img src="https://img.shields.io/badge/TikTok-Follow%20me-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Keep learning, keep building, and keep improving."
+
+⭐ Thanks for visiting my profile!
+
+</div>
