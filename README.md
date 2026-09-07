@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=ALFIAH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Graduate&descAlignY=60&descSize=20" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=ALFIAH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=D3%20Informatics%20Engineering%20Graduate&descAlignY=60&descSize=18" width="100%"/>
 
 # 🌸 Hi, I'm Alfiah
 
@@ -14,130 +10,188 @@
 
 **Software Development • Data & Machine Learning • Computer Vision • Embedded Systems**
 
-📍 Indonesia
+📍 Tegal, Central Java, Indonesia
 
 </div>
 
 ---
 
+<!-- ========================= ABOUT ME ========================= -->
+
 ## 👩‍💻 About Me
 
 I am a **D3 Informatics Engineering graduate** with an interest in technology, programming, data analysis, machine learning, computer vision, embedded systems, and IoT.
 
-I enjoy learning new technologies and building practical solutions through programming and technology.
+I enjoy learning new technologies and developing practical technology-based solutions for real-world problems.
 
-My technical interests include:
+### 💡 What I Do
 
-- 💻 Software Development
-- 📊 Data Analysis & Visualization
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 🧠 TinyML
-- 🔧 Embedded Systems
-- 📡 IoT
-- 🐍 Python Programming
-- 🔌 ESP32 & ESP32-CAM
-
-I am particularly interested in developing technology-based solutions that can be applied to real-world problems.
+| | Area |
+|---|---|
+| 💻 | **Software Development** |
+| 📊 | **Data Analysis & Visualization** |
+| 🤖 | **Machine Learning** |
+| 👁️ | **Computer Vision & Object Detection** |
+| 🧠 | **TinyML** |
+| 🔧 | **Embedded Systems** |
+| 📡 | **Internet of Things (IoT)** |
+| 🐍 | **Python Programming** |
 
 ---
+
+<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 
 </p>
 
-### 📊 Data & Machine Learning
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
-`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `Machine Learning` • `Data Analysis`
+### 📊 Data & Machine Learning
 
-### 🤖 Computer Vision & TinyML
+<p align="center">
 
-`Computer Vision` • `Object Detection` • `FOMO` • `TinyML` • `Edge Impulse`
+<img src="https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ff69b4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+### 👁️ Computer Vision & TinyML
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-ff69b4?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object%20Detection-ff69b4?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOMO-ff69b4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TinyML-ff69b4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge%20Impulse-ff69b4?style=for-the-badge&logoColor=white"/>
+
+</p>
 
 ### 🔧 Embedded Systems & IoT
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=arduino" />
 
 </p>
 
-`ESP32` • `ESP32-CAM AI Thinker` • `Arduino IDE` • `IoT` • `Embedded Systems`
+<p align="center">
 
-### 🧰 Tools
+<img src="https://img.shields.io/badge/ESP32-ff69b4?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32--CAM-ff69b4?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino%20IDE-ff69b4?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-ff69b4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-ff69b4?style=for-the-badge&logoColor=white"/>
 
-<p align="left">
+</p>
+
+### 🧰 Development Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </p>
 
-`Git` • `GitHub` • `Visual Studio Code` • `Jupyter Notebook`
+---
+
+<!-- ========================= AREAS OF INTEREST ========================= -->
+
+## 🎯 Areas of Interest
+
+<div align="center">
+
+| 💻 Software | 📊 Data & AI | 🔧 Embedded |
+|:---:|:---:|:---:|
+| Python | Data Analysis | ESP32 |
+| C / C++ | Machine Learning | ESP32-CAM |
+| SQL | Computer Vision | TinyML |
+| Software Development | Object Detection | IoT |
+
+</div>
 
 ---
+
+<!-- ========================= FEATURED PROJECT ========================= -->
 
 ## 🚀 Featured Project
 
 ### 🦯 Smart Cane Object Detection
 
-**FOMO-Based TinyML Object Detection on ESP32-CAM AI Thinker**
+**FOMO-Based TinyML Object Detection using ESP32-CAM AI Thinker**
 
-A smart cane object detection system developed as an academic project to assist visually impaired users in recognizing obstacles around them.
+An object detection system for a **smart cane** designed to help visually impaired users recognize objects or obstacles in front of them.
 
-### 🎯 Object Detection
+### 🎯 Detected Objects
 
-| Object | Description |
-|---|---|
-| 🚗 Vehicle | Detects vehicles in front of the user |
-| 🚪 Door | Detects doors as surrounding objects |
-| 📍 Pole | Detects poles as potential obstacles |
+| 🚗 Vehicle | 🚪 Door | 📍 Pole |
+|:---:|:---:|:---:|
+| Vehicle detection | Door detection | Pole detection |
 
 ### ⚙️ Technologies
 
-`FOMO` • `TinyML` • `Edge Impulse` • `ESP32-CAM AI Thinker`  
+`FOMO` • `TinyML` • `Edge Impulse` • `ESP32-CAM AI Thinker`
+
 `Computer Vision` • `C/C++` • `Arduino IDE` • `Embedded Systems`
 
-### ✨ Main Features
+### ✨ Features
 
-- Real-time object detection
-- Offline inference
-- TinyML implementation
-- Edge AI on embedded hardware
-- Camera-based object recognition
-- Designed for practical application in a smart cane
+- 🔍 Real-time object detection
+- 📴 Offline inference
+- 🧠 TinyML implementation
+- 📷 Camera-based object recognition
+- 🔧 Edge AI on embedded hardware
+- ♿ Designed for practical accessibility applications
 
 ---
 
-## 📚 Areas of Interest
+<!-- ========================= EDUCATION ========================= -->
+
+## 🎓 Education
+
+### Politeknik Baja Tegal
+
+**Diploma III — Teknik Informatika**
+
+📍 Tegal, Central Java, Indonesia
+
+---
+
+<!-- ========================= LEARNING ========================= -->
+
+## 🌱 Currently Learning
 
 ```text
+Python
+   ├── Data Analysis
+   └── Machine Learning
+
+Computer Vision
+   ├── Object Detection
+   └── TinyML
+
+Embedded Systems
+   ├── ESP32
+   ├── ESP32-CAM
+   └── IoT
+
 Software Development
-        │
-        ├── Python
-        ├── C / C++
-        └── SQL
-
-Data & AI
-        │
-        ├── Data Analysis
-        ├── Machine Learning
-        └── Computer Vision
-
-Embedded Technology
-        │
-        ├── ESP32
-        ├── ESP32-CAM
-        ├── TinyML
-        └── IoT
+   ├── C / C++
+   └── SQL
