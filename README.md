@@ -174,28 +174,56 @@ An object detection system for a **smart cane** designed to help visually impair
 
 ---
 
-<!-- ========================= LEARNING ========================= -->
+<!-- ========================= CURRENTLY LEARNING ========================= -->
 
 ## 🌱 Currently Learning
 
-```text
-Python
-   ├── Data Analysis
-   └── Machine Learning
+<table>
+<tr>
+<td width="50%" align="center">
 
-Computer Vision
-   ├── Object Detection
-   └── TinyML
+### 🐍 Python
 
-Embedded Systems
-   ├── ESP32
-   ├── ESP32-CAM
-   └── IoT
+Data Analysis  
+Machine Learning
 
-Software Development
-   ├── C / C++
-   └── SQL
+</td>
+
+<td width="50%" align="center">
+
+### 👁️ Computer Vision
+
+Object Detection  
+TinyML
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🔧 Embedded Systems
+
+ESP32  
+ESP32-CAM  
+IoT
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Software Development
+
+C / C++  
+SQL
+
+</td>
+</tr>
+</table>
+
 ---
+
+<!-- ========================= GITHUB STREAK ========================= -->
 
 ## 🔥 GitHub Streak
 
@@ -207,38 +235,42 @@ Software Development
 
 ---
 
-# 🤝 Connect With Me
+<!-- ========================= CONNECT ========================= -->
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 I'm always open to connecting, collaborating, and discussing technology.
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/alfiah-b6ab2935a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://wa.me/6282224135912">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/_piiyy21/">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://www.tiktok.com/@merlmaid_0">
-  <img src="https://img.shields.io/badge/TikTok-Follow%20me-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok-Follow%20me-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
 </div>
 
 ---
 
+<!-- ========================= FOOTER ========================= -->
+
 <div align="center">
 
 ### 💡 "Keep learning, keep building, and keep improving."
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
