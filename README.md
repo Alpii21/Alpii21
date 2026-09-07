@@ -2,15 +2,13 @@
 <!--                       HEADER                          -->
 <!-- ===================================================== -->
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F48FB1&height=180&section=header&text=ALFIAH&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br>
 
 # 👋 Hi, I'm Alfiah
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&height=45&lines=Software+Developer;Data+%26+Machine+Learning;Computer+Vision+Enthusiast;TinyML+%26+Embedded+Systems;Edge+AI+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=E91E63&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%93%8A+Data+%26+Machine+Learning;%F0%9F%91%81%EF%B8%8F+Computer+Vision;%F0%9F%A4%96+TinyML+%26+Embedded+Systems;%F0%9F%A6%AF+Smart+Cane+%26+Edge+AI" alt="Typing SVG" />
 
 <br>
 
